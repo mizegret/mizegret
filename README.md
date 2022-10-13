@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Mizuki.
 
 - I'm based in Japan.
-- I'm leaning Java.
+- I'm leaning Java and English.
 
 <!--
 **kobakoba5884/kobakoba5884** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
