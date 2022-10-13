@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Mizuki.
 
 - I'm based in Japan.
 - I'm leaning Java.
