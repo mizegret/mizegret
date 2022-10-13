@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- I'm based in Japan.
+- I'm leaning Java.
+
 <!--
 **kobakoba5884/kobakoba5884** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
