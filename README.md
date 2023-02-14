@@ -1,10 +1,11 @@
 ### Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mizuki.
-<a href="https://tenor.com/view/eevee-pokemon-wink-pixel-gif-15197794"><img align="left" width="250" src="http://pa1.narvii.com/6184/7bb2f1a0a502c787559b3e0032205d1c21b570cd_00.gif"></a>
-- 🔭 I'm based in Japan.
-- 🤔 I was born in 1998.
-- 🌱 I'm leaning Node and English.
-- 😄 English can't do at all. but don't care!!!
-- 💛 I really wanna fall in love right now!!!!
+<a href="https://tenor.com/view/eevee-pokemon-wink-pixel-gif-15197794"><img align="left" width="160" src="http://pa1.narvii.com/6184/7bb2f1a0a502c787559b3e0032205d1c21b570cd_00.gif"></a>
+&ensp;  🔭 I'm based in Japan.<br> 
+&ensp;  🤔 I was born in 1998.<br> 
+&ensp;  🌱 I'm leaning Node and English.<br> 
+&ensp;  😄 English can't do at all. but don't care!!!<br> 
+&ensp;  💛 I really wanna fall in love right now!!!!<br> 
+&ensp;  🎧 listening to: up all night by Charlie Puth <br> 
 
 <!--
 **kobakoba5884/kobakoba5884** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
