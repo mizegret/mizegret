@@ -1,7 +1,6 @@
 ### Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mizuki.
 <a href="https://tenor.com/view/eevee-pokemon-wink-pixel-gif-15197794"><img align="left" width="150" src="http://pa1.narvii.com/6184/7bb2f1a0a502c787559b3e0032205d1c21b570cd_00.gif"></a>
 &ensp;&ensp;  🔭 I'm based in Japan.<br> 
-&ensp;&ensp;  🤔 I was born in 1998.<br> 
 &ensp;&ensp;  🌱 I'm leaning Node and English.<br> 
 &ensp;&ensp;  😄 English can't do at all. but don't care!!!<br> 
 &ensp;&ensp;  💛 I really wanna fall in love right now!!!!<br> 
