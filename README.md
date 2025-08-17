@@ -18,12 +18,4 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 </p>
 
-### His latest condition
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/kobakoba5884"><img src="https://github-readme-stats.vercel.app/api?username=kobakoba5884&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kobakoba5884's GitHub stats" /></a>
-
-<a href="http://www.github.com/kobakoba5884"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kobakoba5884&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 
